@@ -1,2 +1,3 @@
 # Tiktok-Share-Bot
-This is a simple share bot that can be used to share bot past the bannable limit (100k) 
+I made this sharebot myself and if you just run the exe it will give you a prompt and you enter your tiktok link
+If the exe does not work for you please reply under this repo :)
